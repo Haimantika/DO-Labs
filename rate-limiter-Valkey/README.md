@@ -64,7 +64,6 @@ PORT=3001
 
 Install backend dependencies:
 ```bash
-cd valkey-backend
 npm install
 ```
 
